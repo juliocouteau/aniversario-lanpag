@@ -1,0 +1,12 @@
+{
+  "name": "aniversario-landing-page",
+  "version": "1.0.0",
+  "description": "Landing page de aniversário responsiva com Parcel",
+  "scripts": {
+    "start": "parcel src/index.html",
+    "build": "parcel build src/index.html --dist-dir dist --public-url ./"
+  },
+  "devDependencies": {
+    "parcel": "^2.12.0"
+  }
+}
